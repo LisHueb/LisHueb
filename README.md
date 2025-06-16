@@ -3,7 +3,7 @@
 This is where I share my passion for creating simple yet meaningful data visualizations
 
 <a href="https://github.com/LisHueb/Handball-Euro-2024-Squads">
-  <img src="./Images/Visualization_Euro_2024_Squads.png" width="500">
+  <img src="./Images/Visualization_Euro_2024_Squads.png" width="400">
 </a>
 
 
