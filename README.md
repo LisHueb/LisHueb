@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello 👋
+
+
+I enjoy turning everyday topics into data visualizations that are easy to understand yet rich in data. These are some of my recent projects:
+
+[<img src="./images/Viz_Euro_2024_Squads.png" width="400">](https://github.com/LisHueb/Handball-Euro-2024-Squads)
+
+
+<img src="./images/Viz_Lancet_Diet.png" width="400">
+
 
 <!--
 **LisHueb/LisHueb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
