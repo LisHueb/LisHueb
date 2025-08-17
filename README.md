@@ -1,7 +1,7 @@
 ## Hello 👋
 
 
-I enjoy turning everyday topics into data visualizations that are easy to understand yet rich in data. These are some of my recent projects:
+I'm an Analytics engineer with a soft spot for straightforward yet insightful data visualizations. These are some of my recent projects:
 
 <img src="./images/Athletics_Records.png" width="400">
 
