@@ -5,6 +5,8 @@ I enjoy turning everyday topics into data visualizations that are easy to unders
 
 <img src="./images/Athletics_Records.png" width="400">
 
+<img src="./images/olympic_arc_chart.png" width="400">
+
 [<img src="./images/Viz_Euro_2024_Squads.png" width="400">](https://github.com/LisHueb/Handball-Euro-2024-Squads)
 
 <img src="./images/Viz_Lancet_Diet.png" width="400">
