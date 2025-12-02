@@ -4,12 +4,8 @@
 I'm an Analytics engineer with a soft spot for straightforward yet insightful data visualizations. These are some of my recent projects:
 
 <img src="./images/Athletics_Records.png" width="600">
+<img src="./images/Athletics_Records.png" width="600">
 
-<img src="./images/olympic_arc_chart.png" width="600">
-
-[<img src="./images/Viz_Euro_2024_Squads.png" width="600">](https://github.com/LisHueb/Handball-Euro-2024-Squads)
-
-<img src="./images/Viz_Lancet_Diet.png" width="600">
 
 
 <!--
