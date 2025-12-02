@@ -3,7 +3,7 @@
 
 <img src="./images/World_Records_Visualization.png" width="800">
 
-<img src="./images/Viz.png" width="600">
+<img src="./images/E-Scooter_Viz.png" width="600">
 
 
 ## Rowing Tracker
