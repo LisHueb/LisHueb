@@ -1,12 +1,12 @@
-## Hello 👋
+
+## Data Viz
+
+<img src="./images/World_Records_Visualization.png" width="800">
+
+<img src="./images/Viz.png" width="600">
 
 
-I'm an Analytics engineer with a soft spot for straightforward yet insightful data visualizations. These are some of my recent projects:
-
-<img src="./images/Athletics_Records.png" width="600">
-<img src="./images/Athletics_Records.png" width="600">
-
-
+## Rowing Tracker
 
 <!--
 **LisHueb/LisHueb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
