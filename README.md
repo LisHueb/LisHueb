@@ -1,7 +1,7 @@
 
 ## Data Viz
 
-<img src="./images/schnee_karten_1950_2024.png" width="800">
+<img src="./images/schnee_karten_1950_2024_test2.png" width="800">
 
 <img src="./images/World_Records_Visualization.png" width="800">
 
