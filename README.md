@@ -1,11 +1,12 @@
 
 ## Data Viz
+<img src="./images/Screenshot 2026-01-03 at 21-00-19 World Records Visualization.png" width="800">
+
 
 <img src="./images/schnee_karten_1950_2025.png" width="800">
 
-<img src="./images/World_Records_Visualization.png" width="800">
 
-<img src="./images/E-Scooter_Viz.png" width="1000">
+<img src="./images/Screenshot 2026-01-03 at 21-05-58 E-Scooter Unfälle 2021-2024.png" width="800">
 
 
 ## Rowing Tracker
