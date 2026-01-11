@@ -1,6 +1,6 @@
 
 ## Data Viz
-<img src="./images/Screenshot 2026-01-03 at 21-00-19 World Records Visualization.png" width="600">
+<img src="./images/Screenshot 2026-01-11 at 22-06-03 World Records Visualization.png" width="600">
 
 
 <img src="./images/schnee_karten_1950_2025.png" width="600">
