@@ -5,6 +5,7 @@
 
 <img src="./images/Pollen_Viz_blau.png" width="480">
 
+<img src="./images/Pollen_Viz_grau.png" width="480">
 
 <img src="./images/Pollen_Viz_grün.png" width="480">
 
