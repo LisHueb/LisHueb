@@ -3,7 +3,7 @@
 <img src="./images/Rastergrafik8.png" width="500">
 
 
-<img src="./images/Pollen_Viz_2.png" width="480">
+<img src="./images/Pollen_Viz_3.png" width="480">
 
 
 <img src="./images/Screenshot 2026-01-03 at 21-05-58 E-Scooter Unfälle 2021-2024.png" width="500">
